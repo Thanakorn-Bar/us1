@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thana\\source\\repos\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AC3035-2721-4D72-A73A-9942238AE6AE}|..\\2_project\\2_project.csproj|c:\\users\\thana\\source\\repos\\2_project\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D4896C-7049-4931-B92C-592DBA5217DC}|..\\Project\\Project.csproj|c:\\users\\thana\\source\\repos\\project\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0AC3035-2721-4D72-A73A-9942238AE6AE}|..\\2_project\\2_project.csproj|c:\\users\\thana\\source\\repos\\2_project\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D4896C-7049-4931-B92C-592DBA5217DC}|..\\Project\\Project.csproj|c:\\users\\thana\\source\\repos\\project\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\datacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:datacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\dbservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:dbservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|C:\\Users\\thana\\source\\repos\\Database\\dbservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{136F016B-95B0-4571-97F1-5EC00419E243}|Database.csproj|solutionrelative:dbservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.html",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\2_project\\Login.html",
+              "RelativeDocumentMoniker": "..\\2_project\\Login.html",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\2_project\\Login.html",
+              "RelativeToolTip": "..\\2_project\\Login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-30T16:38:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\2_project\\index.js",
+              "RelativeDocumentMoniker": "..\\2_project\\index.js",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\2_project\\index.js",
+              "RelativeToolTip": "..\\2_project\\index.js",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T15:59:21.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Project\\index.html",
+              "RelativeDocumentMoniker": "..\\Project\\index.html",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Project\\index.html",
+              "RelativeToolTip": "..\\Project\\index.html",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-30T15:56:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Project\\index.js",
+              "RelativeDocumentMoniker": "..\\Project\\index.js",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Project\\index.js",
+              "RelativeToolTip": "..\\Project\\index.js",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T15:56:38.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-30T15:28:53.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\index.js",
+              "RelativeDocumentMoniker": "index.js",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\index.js",
+              "RelativeToolTip": "index.js",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAuwKwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T15:19:39.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\dbService.svc.cs",
+              "RelativeDocumentMoniker": "dbService.svc.cs",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\dbService.svc.cs",
+              "RelativeToolTip": "dbService.svc.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:16:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbService.svc",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\dbService.svc",
+              "RelativeDocumentMoniker": "dbService.svc",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\dbService.svc",
+              "RelativeToolTip": "dbService.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2024-10-30T15:14:42.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdbService.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\IdbService.cs",
+              "RelativeDocumentMoniker": "IdbService.cs",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\IdbService.cs",
+              "RelativeToolTip": "IdbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:14:09.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T15:07:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataContract.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\source\\repos\\Database\\dataContract.cs",
+              "RelativeDocumentMoniker": "dataContract.cs",
+              "ToolTip": "C:\\Users\\thana\\source\\repos\\Database\\dataContract.cs",
+              "RelativeToolTip": "dataContract.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:15:35.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
